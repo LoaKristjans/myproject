@@ -1,0 +1,134 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+    
+body {
+    margin: 0;
+  }
+
+.website {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1 {
+    width: 1000px;
+    height: 3000px;
+    background: rgb(245,204,222);
+    position: relative;
+  }
+.h2 {
+    margin-left: 50px; 
+    margin-top: 40px;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+.text1 {
+max-width: 130px;
+margin-left: 0px;
+font-size: 20px;
+font-family: 'Roboto', sans-serif;
+}
+
+.hline { 
+    width:150%; height:2px; background: black
+ }
+
+.box2 {
+    width: 700px;
+    height: 500px;
+    background: rgb(255, 224, 1);
+    margin-left: 299px;
+    margin-bottom: 2500px;
+    position: absolute;
+  }
+
+ .h3 {
+      font-size: 50px;
+      margin-left: 30px;
+      font-family: 'Lobster', cursive;
+      margin-left: 110px;
+  }
+
+  .text2 {
+    margin-left: -80px;
+    max-width: 1000px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+.italy {  
+    width: 60%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.box3 {
+    width: 600px;
+    height: 600px;
+    background: rgb(85, 179, 161);
+    margin-left: 160px;
+    margin-bottom: -100px;
+    position: absolute;
+  }
+
+.italy2 {
+    width: 100%;
+    margin-top: 100px;
+    margin-left: -200px;
+}
+
+.vl {
+    border-left: 4px solid black;
+    height: 350px;
+    margin-top: -650px;
+    margin-left: 300px;
+    position: absolute;
+  }
+  .vl2 {
+    border-left: 4px solid black;
+    height: 350px;
+    margin-top: -100px;
+    margin-left: 500px;
+    position: absolute;
+  }
+
+  .italy3 {
+    width: 130%;
+    margin-top: 500px;
+    margin-left: -150px;
+  }
+
+  .vl3 {
+    border-left: 4px solid black;
+    height: 380px;
+    margin-top: -300px;
+    margin-left: -200px;
+    position: absolute;
+  }
+
+  .vl4 {
+    border-left: 4px solid black;
+    height: 380px;
+    margin-top: -650px;
+    margin-left: 670px;
+    position: absolute;
+  }
+
+  .hline2 {
+    width:380px; 
+    height:4px; 
+    background: black;
+    margin-top: -570px;
+    margin-left: -180px;
+  }
+
+
+  .hline3 {
+    width:380px; 
+    height:4px; 
+    background: black;
+    margin-top: 600px;
+    margin-left: 280px;
+  }
